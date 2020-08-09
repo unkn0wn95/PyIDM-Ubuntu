@@ -19,3 +19,8 @@ Step 4:Error Fix
 
 Step 5:Run the program
 	Run python -m pyidm
+
+Step 6:Error Fix
+	If pyperclip Not Implemented Error
+		Run sudo apt-get install xsel
+		Run sudo apt-get install xclip
